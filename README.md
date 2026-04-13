@@ -1,2 +1,9 @@
-# Edge-Federated-IoT-Anomaly-Detection
-Edge-Based Federated Learning framework for real-time anomaly detection in IoT networks using NSL-KDD dataset with distributed client simulation and FedAvg aggregation.
+# IoT Anomaly Detection using Federated Learning
+
+Dataset: NSL-KDD  
+Model: Logistic Regression  
+Method: Federated Learning (FedAvg)
+
+Files:
+- nsl_kdd.csv → dataset
+- federated_nsl_kdd.py → implementation
